@@ -2,7 +2,7 @@
 
 Learning Flutter by Building Shop App
 
-## What we Learn
+## What We Learn
 
 * Using Native Device Features (Camera, Maps, Location, ...)
 
