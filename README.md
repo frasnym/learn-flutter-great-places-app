@@ -1,6 +1,6 @@
-# Shop App
+# Great Places App
 
-Learning Flutter by Building Shop App
+Learning Flutter by Building Great Places App
 
 ## What We Learn
 
